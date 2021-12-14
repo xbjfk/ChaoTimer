@@ -8,6 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
+#import <CoreGraphics/CoreGraphics.h>
+#import <UIKit/UIKit.h>
+
 typedef enum device {
     DEVICE_PHONE = 0,
     DEVICE_PAD = 1,
